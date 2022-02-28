@@ -1,0 +1,16 @@
+C:\Users\churchill paul\source\repos\UC4-switch case\UC4-switch case\bin\Debug\net5.0\UC4-switch case.exe
+C:\Users\churchill paul\source\repos\UC4-switch case\UC4-switch case\bin\Debug\net5.0\UC4-switch case.deps.json
+C:\Users\churchill paul\source\repos\UC4-switch case\UC4-switch case\bin\Debug\net5.0\UC4-switch case.runtimeconfig.json
+C:\Users\churchill paul\source\repos\UC4-switch case\UC4-switch case\bin\Debug\net5.0\UC4-switch case.runtimeconfig.dev.json
+C:\Users\churchill paul\source\repos\UC4-switch case\UC4-switch case\bin\Debug\net5.0\UC4-switch case.dll
+C:\Users\churchill paul\source\repos\UC4-switch case\UC4-switch case\bin\Debug\net5.0\UC4-switch case.pdb
+C:\Users\churchill paul\source\repos\UC4-switch case\UC4-switch case\obj\Debug\net5.0\UC4-switch case.csproj.AssemblyReference.cache
+C:\Users\churchill paul\source\repos\UC4-switch case\UC4-switch case\obj\Debug\net5.0\UC4-switch case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\churchill paul\source\repos\UC4-switch case\UC4-switch case\obj\Debug\net5.0\UC4-switch case.AssemblyInfoInputs.cache
+C:\Users\churchill paul\source\repos\UC4-switch case\UC4-switch case\obj\Debug\net5.0\UC4-switch case.AssemblyInfo.cs
+C:\Users\churchill paul\source\repos\UC4-switch case\UC4-switch case\obj\Debug\net5.0\UC4-switch case.csproj.CoreCompileInputs.cache
+C:\Users\churchill paul\source\repos\UC4-switch case\UC4-switch case\obj\Debug\net5.0\UC4-switch case.dll
+C:\Users\churchill paul\source\repos\UC4-switch case\UC4-switch case\obj\Debug\net5.0\refint\UC4-switch case.dll
+C:\Users\churchill paul\source\repos\UC4-switch case\UC4-switch case\obj\Debug\net5.0\UC4-switch case.pdb
+C:\Users\churchill paul\source\repos\UC4-switch case\UC4-switch case\obj\Debug\net5.0\UC4-switch case.genruntimeconfig.cache
+C:\Users\churchill paul\source\repos\UC4-switch case\UC4-switch case\obj\Debug\net5.0\ref\UC4-switch case.dll
